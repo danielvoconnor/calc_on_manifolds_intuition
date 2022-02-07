@@ -1,1 +1,1 @@
-# calc_on_manifolds_intuition
+![Alt text](stokes_theorem_intuition.png?raw=true "Title")
